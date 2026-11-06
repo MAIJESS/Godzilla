@@ -67,12 +67,7 @@
         "buttonRadius": 4,
         "chipRadius": 4,
         "dialogRadius": 6,
-        "inputRadius": 4,
-        "dialogBorder": 2,
-        "menuBorder": 1,
-        "headerBorder": 1,
-        "cardBorder": 1,
-        "panelBorder": 1
+        "inputRadius": 4
       },
       "typography": {
         "scale": 1.04,
@@ -220,12 +215,7 @@
         "buttonRadius": 0,
         "chipRadius": 0,
         "dialogRadius": 2,
-        "inputRadius": 0,
-        "dialogBorder": 3,
-        "menuBorder": 2,
-        "headerBorder": 1,
-        "cardBorder": 2,
-        "panelBorder": 2
+        "inputRadius": 0
       },
       "typography": {
         "scale": 1.06,
@@ -306,7 +296,7 @@
             },
             {
               "d": "M7 4H9V6H7ZM21 1H23V3H21ZM36 0H38V2H36ZM115 0H117V2H115ZM130 2H132V4H130ZM141 6H143V8H141Z",
-              "fill": "focus"
+              "fill": "textSecondary"
             },
             {
               "d": "M4 18H12V50H4ZM14 33L28 18H38L22 34ZM22 33L38 50H28L14 37ZM48 18H56V50H48ZM66 18H74V50H66ZM90 18H98V50H90ZM66 18H76L98 50H88ZM116 18H136L144 26V42L136 50H116L108 42V26ZM119 26L116 29V39L119 42H133L136 39V29L133 26Z",
@@ -377,12 +367,7 @@
         "buttonRadius": 30,
         "chipRadius": 26,
         "dialogRadius": 24,
-        "inputRadius": 16,
-        "dialogBorder": 2,
-        "menuBorder": 1,
-        "headerBorder": 1,
-        "cardBorder": 1,
-        "panelBorder": 1
+        "inputRadius": 16
       },
       "typography": {
         "scale": 1.03,
@@ -459,7 +444,7 @@
           "paths": [
             {
               "d": "M14 14L14.9 11L17.1 8L17.9 11.3L19 14ZM34 14L34.9 11L37.1 8L37.9 11.3L39 14ZM54 14L54.9 11L57.1 8L57.9 11.3L59 14ZM74 14L74.9 11L77.1 8L77.9 11.3L79 14ZM94 14L94.9 11L97.1 8L97.9 11.3L99 14ZM114 14L114.9 11L117.1 8L117.9 11.3L119 14Z",
-              "fill": "focus"
+              "fill": "textSecondary"
             },
             {
               "d": "M4 14L7.2 10.5L15.2 7L18 10.8L22 14ZM24 14L27.2 8.5L35.2 3L38 9.1L42 14ZM44 14L47.2 7L55.2 0L58 7.7L62 14ZM64 14L67.2 7.5L75.2 1L78 8.1L82 14ZM84 14L87.2 7L95.2 0L98 7.7L102 14ZM104 14L107.2 8.5L115.2 3L118 9.1L122 14ZM124 14L127.2 10.5L135.2 7L138 10.8L142 14Z",
